@@ -53,3 +53,13 @@ In conclusion, the analysis of census data has provided valuable insights into t
 
 ---
 **Note:** This README serves as a summary of the Census Project Report. For detailed findings and analyses, please refer to the Jupyternote book and complete report document.
+
+
+## Author
+
+**_Adewole Adetoro Ajala_**
+
+For any inquiries, please contact: woltoaj@gmail.com / woltoajai@gmail.com
+
+Feel free to contribute or provide feedback!
+
