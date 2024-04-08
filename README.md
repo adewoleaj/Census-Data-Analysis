@@ -51,6 +51,15 @@ Drawing upon the insights gleaned from the analysis, a series of strategic recom
 
 In conclusion, the analysis of census data has provided valuable insights into the intricate dynamics of the town's population and socioeconomic fabric. By harnessing these insights, stakeholders are empowered to make data-driven decisions that contribute to the holistic advancement and prosperity of the community.
 
+## Usage
+
+To run the script:
+
+   1. Clone this repository.
+   2. Ensure you have the required packages installed (**pandas**, **numpy**, **seaborn**, **matplotlib**).
+   3. No additional configuration is required beyond the installation steps. However, you may need to adjust the path to your dataset and model directory according to your local setup
+   4. Run the Python script housing_price_prediction.py
+
 ---
 **Note:** This README serves as a summary of the Census Project Report. For detailed findings and analyses, please refer to the Jupyternote book and complete report document.
 
