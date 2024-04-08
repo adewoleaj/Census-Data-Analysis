@@ -35,6 +35,8 @@ The census data underwent meticulous cleaning procedures to ensure accuracy and 
 
 ## Population Demographics
 
+
+
 Through rigorous analysis, we gained valuable insights into the demographic composition of the town. This included an in-depth exploration of age distribution, occupational diversity, marital status distribution, and prevalence of infirmity among residents. Visual aids such as population pyramids and age distribution plots were employed to enhance comprehension of demographic trends.
 
 ## Data Insights and Analysis
